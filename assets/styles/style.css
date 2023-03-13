@@ -1,131 +1,132 @@
 body {
-    background-color: rgb(150, 189, 223);
+  background-color: rgb(150, 189, 223);
 }
 
 .main {
-    width: 100%;
-    /* border: 1px solid blue; */
-    display: flex;
-    justify-content: space-around;
-    /* align-self: flex-end; */
-    margin-top: 250px;
+  width: 100%;
+  /* border: 1px solid blue; */
+  display: flex;
+  justify-content: space-around;
+  /* align-self: flex-end; */
+  margin-top: 250px;
 }
 .main a {
-    /* border: 1px solid red; */
-    display: flex;
-    flex-direction: column-reverse;
-    align-items: center;
-    text-decoration: none;
-    color: black;
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  text-decoration: none;
+  color: black;
 }
 
 .contact {
-    text-align: center;
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    color: rgb(171, 196, 196);
-    margin-top: 100px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(171, 196, 196);
+  margin-top: 100px;
 }
 
 .goto {
-    text-decoration: none;
-    color: rgb(157, 197, 228);
-    font-size: 25px;
+  text-decoration: none;
+  color: rgb(157, 197, 228);
+  font-size: 25px;
 }
 
 .idiv {
-    text-align: center;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .fa {
-    font-size: 48px;
+  font-size: 48px;
 }
 
 i {
-    font-size: 36px;
+  font-size: 36px;
 }
 
 .main span,
 .contact {
-    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-        "Lucida Sans", Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .mainp {
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    font-size: 50px;
-    color: darkcyan;
-    text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 50px;
+  color: darkcyan;
+  text-align: center;
 }
 
 .list a:hover {
-    text-decoration: underline;
-    /* background-color: cadetblue; */
+  text-decoration: underline;
+  /* background-color: cadetblue; */
 }
 
 #body {
-    background-image: url("../images/This\ item\ is\ unavailable\ _\ Etsy.jfif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: auto;
+  background-image: url("../images/This\ item\ is\ unavailable\ _\ Etsy.jfif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
 }
 
 .body1 {
-    background-image: url("../images/IMG_5145.JPEG");
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-image: url("../images/IMG_5145.JPEG");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .dropbtn {
-    background-color: #7653d5;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
+  background-color: #7653d5;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
 }
 
 .dropbtn:hover,
 .dropbtn:focus {
-    background-color: #5f3e8e;
+  background-color: #5f3e8e;
 }
 
 .dropdown {
-    position: relative;
-    display: inline-block;
+  position: relative;
+  display: inline-block;
 }
 
 .dropdown-content {
-    display: none;
-    position: absolute;
-    /* background-color: #f9f9f9; */
-    min-width: 160px;
-    overflow: auto;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  display: none;
+  position: absolute;
+  /* background-color: #f9f9f9; */
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
 .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
 }
 
 .dropdown-content a:hover {
-    background-color: #f1f1f1;
+  background-color: #f1f1f1;
 }
 
 .show {
-    display: block;
+  display: block;
 }
 
 .div {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
+  font-family: Arial, Helvetica, sans-serif;
 }
