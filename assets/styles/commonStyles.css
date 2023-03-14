@@ -4,3 +4,8 @@
 * {
   font-family: Tilt Neon;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
