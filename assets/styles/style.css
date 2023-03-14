@@ -21,7 +21,7 @@ body {
 
 .contact {
   text-align: center;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
   color: rgb(171, 196, 196);
   margin-top: 100px;
 }
@@ -35,7 +35,6 @@ body {
 .idiv {
   text-align: center;
   font-size: 20px;
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 ul {
@@ -50,14 +49,7 @@ i {
   font-size: 36px;
 }
 
-.main span,
-.contact {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-}
-
 .mainp {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 50px;
   color: darkcyan;
   text-align: center;
@@ -72,7 +64,7 @@ i {
   background-image: url("../images/This\ item\ is\ unavailable\ _\ Etsy.jfif");
   background-size: cover;
   background-repeat: no-repeat;
-  width: 100%;
+  /* width: 100%; */
   height: auto;
 }
 
